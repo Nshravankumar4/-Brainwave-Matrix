@@ -1,0 +1,109 @@
+OutPut
+
+Online Banking System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. Display Account Info
+6. Exit
+Enter your choice: 1
+Enter account number: 7240
+Enter account holder's name: Shravan
+Account created successfully.
+
+Online Banking System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. Display Account Info
+6. Exit
+Enter your choice: 2
+Enter account number: 7240
+Enter amount to deposit: 100
+Deposited: $100. New balance: $100
+
+Online Banking System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. Display Account Info
+6. Exit
+Enter your choice: 3
+Enter account number: 7240
+Enter amount to withdraw: 5
+Withdrawn: $5. New balance: $95
+
+Online Banking System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. Display Account Info
+6. Exit
+Enter your choice: 1
+Enter account number: 5348
+Enter account holder's name: Sai
+Account created successfully.
+
+Online Banking System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. Display Account Info
+6. Exit
+Enter your choice: 2
+Enter account number: 5348
+Enter amount to deposit: 1001
+Deposited: $1001. New balance: $1001
+
+Online Banking System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. Display Account Info
+6. Exit
+Enter your choice: 4
+Enter sender's account number: 7240
+Enter recipient's account number: 5348
+Enter amount to transfer: 50
+Transferred: $50 to account 5348
+
+Online Banking System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. Display Account Info
+6. Exit
+Enter your choice: 5
+Enter account number: 7240
+Account Number: 7240
+Account Holder: Shravan
+Balance: $45
+
+Online Banking System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. Display Account Info
+6. Exit
+Enter your choice: 5
+Enter account number: 5348
+Account Number: 5348
+Account Holder: Sai
+Balance: $1051
+
+Online Banking System
+1. Create Account
+2. Deposit Funds
+3. Withdraw Funds
+4. Transfer Funds
+5. Display Account Info
+6. Exit
+Enter your choice: 6
